@@ -1,0 +1,23 @@
+{
+  "logs": [
+    {
+      "message": "computers system is down",
+      "attention": true,
+      "tech": "Philani Ndhlela",
+      "date": "2020-06-26T03:46:47.138Z",
+      "id": 1
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Philani",
+      "lastName": "Ndhlela",
+      "id": 4
+    },
+    {
+      "firstName": "Lindokuhle",
+      "lastName": "Nhlabathi",
+      "id": 5
+    }
+  ]
+}
